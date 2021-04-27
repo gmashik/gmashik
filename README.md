@@ -17,14 +17,8 @@ interested in different machine learning model developement and deployment.
   <img align="right" alt="GIF" src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" />
   
 
-- 📫 You can reach me: gmarahma@uwaterloo.ca 
-<br/>
-<center>OR</center>
-<br/>
-- 🌐 Visit my <a href=" https://gmashik.github.io/web/">website <a/>
-
-
-
+- 📫 You can reach me: gmarahma@uwaterloo.ca or 
+- 🌐 Visit my <a href="https://gmashik.github.io/web/"> website <a/>
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=gmashik&show_icons=true&hide_border=true)
