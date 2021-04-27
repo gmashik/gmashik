@@ -15,7 +15,8 @@ Hi, I'm G M Ashikur Rahman, Recent Master's graduate from the university of Wate
 interested in different machine learning model developement and deployment.
 <br/>
  
- <iframe src="https://giphy.com/embed/PjJ1cLHqLEveXysGDB" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+ 
+  <img align="right" alt="GIF" src="https://i.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.webp" width="300" height="300" />
   
 
 - 📫 You can reach me: gmarahma@uwaterloo.ca or 
