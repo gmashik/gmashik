@@ -21,6 +21,10 @@ interested in different machine learning model developement and deployment.
 
 - 📫 You can reach me: gmarahma@uwaterloo.ca or 
 - 🌐 Visit my <a href="https://gmashik.github.io/web/"> website <a/>
+- 🌐 Visit <a href="https://gmashik.github.io/web/mlproj.html"> here <a/>to see my machine learning and data science projects. 
+- 🌐 Click <a href="https://gmashik.github.io/web/codeproj.html"> here <a/>to see my python demo software projects. 
+- 🌐 Click <a href="https://gmashik.github.io/web/dlpjoj.html"> here <a/>to see my Power BI projects.
+- 🌐 Click <a href="https://github.com/gmashik/Image_classification_project"> here <a/>to see my own computer vision project.
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=gmashik&show_icons=true&hide_border=true)
